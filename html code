@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sathwika - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Seetha Sathwika</h1>
+        <p>Undergraduate Student</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+           
+          I am Seetha Sathwika.. I am a person with a lot of enthusiasm to learn new things and a continuous learner. I am confident, optimistic, highly organized & a people person. I believe that my enthusiasm and willingness to learn make me a strong candidate.“ I am Looking for opportunities to incorporate my skills.
+    </section>
+
+    <section class="accomplishments">
+        <h2>Education</h2>
+        <ul>
+            <li> Marri LAxman Reddy Institute of Technology and Management,B Tech, Computer Science & Engineering(AI and Ml) ,2021-2025</li>
+            <li> St.Anthonys Junior college, Intermediate, 2019-2021 </li>
+            <li> St.Anthonys High School, SSC, 2019</li>
+        
+        </ul>
+    </section>
+    <section class="about">
+      <h2>Languages</h2>
+      <ul>
+        <li>English</li>
+        <li>Telugu</li>
+      </ul>
+    </section>
+    <section class="about">
+      <h2>Skills</h2>
+      <ul >
+        <li>Python</li>
+        <li>Java</li>
+        <li>DBMS</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Leadership</li>
+        <li>Multitasking</li>
+        <li>Hardworking</li>
+        <li>Adaptability</li>
+      </ul>
+    </section>
+    <section class="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <h4>Amazon clone using HTML and CSS</h4>
+            <p>Developed a Amazon clone using HTML and CSS to replicate the design and layout to the Amazon website.
+            Implemented responsiuve home page wioth a navigation bar,producy listing and a footer.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <h4>Netflix clone using HTML and CSS</h4>
+            <p>Developed a Netflix clone using HTML and CSS to mimic the interface and design of the netflix website.
+                The project honoed my abilites in web layout,styling techniques,and a building visualling appealing,user friendly web pages.</p>
+        </div>
+        <div>
+            <div class="project">
+                <h3>Project 3</h3>
+                <h4>NLP for diasater tweets</h4>
+                <p>Developed NLP for disaster tweets,focusing on xclassifiying and analyzing tweets related to natural disasters.
+                    Utilized python Libraries such as pandas to preprocess and analyzing tweets related to natural
+                </p>
+            </div>
+        </div>
+        <!-- Add more projects here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sathwika seetha</p>
+    </footer>
+</body>
+</html>
